@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pjaredruz
+- 👋 Hello, I am Jared!
 - 👀 I’m interested in books, cinema and the meaning of life
 - 🌱 I’m currently learning HTML, CSS & JavaScript
 - 💞️ I’m looking to collaborate on WebDesign
