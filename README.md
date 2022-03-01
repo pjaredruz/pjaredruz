@@ -8,3 +8,5 @@
 pjaredruz/pjaredruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Welcome to my portfolio, I'm Jared and I full-stack software developer. I love to read, to play sports and to constantly learn new things. 
